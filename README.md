@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshu-Khanna
 - 👀 I’m interested in web developement and wordpress developement
-- 🌱 I’m currently learning - HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Working with - HTML, CSS, JS, Tailwind
+- 💞️ I’m looking to collaborate on any wordpress open source projects, React projects, or Php with MySQL or Maria DB
 - 📫 How to reach me - Email- mvjgvj@gmail.com
 
 <!---
