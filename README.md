@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himanshu-Khanna&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu-Khanna" /> </p>
 ### 🏆 GitHub Trophies
 
-#### 💼 Work Account (`@Himanshu-Khanna`)
+<!-- #### 💼 Work Account (`@Himanshu-Khanna`)
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Himanshu-Khanna&rank=S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15" alt="Work GitHub Trophies" />
@@ -18,7 +18,21 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Himanshukhanna0&rank=S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15" alt="Personal GitHub Trophies" />
   </a>
-</p>
+</p> -->
+
+<details>
+  <summary>🏆 Work GitHub Trophies (@Himanshu-Khanna)</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Himanshu-Khanna&rank=S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15" />
+  </p>
+</details>
+
+<details>
+  <summary>🏆 Personal GitHub Trophies (@Himanshukhanna0)</summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Himanshukhanna0&rank=S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15" />
+  </p>
+</details>
 
 
 <p align="left">
