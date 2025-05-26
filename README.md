@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Himanshukhanna0&rank=S,AAA,AA,A,B,C&column=3&margin-w=15&margin-h=15" alt="Himanshu-Khanna" /></a> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/himanshukhanna96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/himanshukh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:himanshu.khanna289@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
@@ -81,13 +81,13 @@ I'm always evolving with the tech landscape—from CMS development to SEO to aut
 ---
 
 ### 📊 GitHub Stats
-### 📊 Work GitHub Stats (@himanshu-work)
+### 📊 Work GitHub Stats (@Himanshu-Khanna)
 ![Work Stats](https://github-readme-stats.vercel.app/api?username=himanshu-work&show_icons=true&theme=vue)
 <a href="https://github.com/Himanshu-Khanna">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Khanna&theme=vue" alt="GitHub Streak" />
   </a>
 
-### 🧪 Personal GitHub Stats (@himanshuk96)
+### 🧪 Personal GitHub Stats (@himanshukhanna0)
 ![Personal Stats](https://github-readme-stats.vercel.app/api?username=Himanshukhanna0&show_icons=true&theme=vue)
 <a href="https://github.com/Himanshu-Khanna">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshukhanna0&theme=vue" alt="GitHub Streak" />
